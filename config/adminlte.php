@@ -322,7 +322,7 @@ return [
         [
             'text' => 'profile',
             'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-user',
+            'icon' => '<ion-icon name="people-outline"></ion-icon>',
         ],
         [
             'text' => 'change_password',
@@ -369,17 +369,17 @@ return [
         ],
         ['header' => 'labels'],
         [
-            'text'       => 'important',
+            'text'       => 'panetones',
             'icon_color' => 'red',
             'url'        => '#',
         ],
         [
-            'text'       => 'warning',
+            'text'       => 'cachondeo',
             'icon_color' => 'yellow',
             'url'        => '#',
         ],
         [
-            'text'       => 'information',
+            'text'       => 'packs',
             'icon_color' => 'cyan',
             'url'        => '#',
         ],
